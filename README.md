@@ -2,13 +2,6 @@
 ## A Look Between Boston And Seattle AirBnb Dynamics
 This repository contains the notebooks used for the project analysis, along with the necessary datasets and python libraries.
 
-### Datasets
-- calendar_boston.csv
-- calendar_seattle.csv
-- listing_boston.csv
-- listing_seattle.csv
-- reviews_boston.csv
-- reviews_seattle.csv
 
 ### Libraries
 - Numpy 1.19.2
